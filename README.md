@@ -60,3 +60,32 @@ person.age = 30
 introduction = person.introduce()
 print(introduction) 
 ```
+
+## 🛠 Technical Concepts Under Consideration
+
+- Hybrid compilation and interpretation
+- Sophisticated type system with inference and gradual typing
+- Efficient memory management combining automatic and manual approaches
+- Robust concurrency model inspired by Go and Rust
+- Built-in security features like bounds checking and taint analysis
+
+## 🤝 Contributing
+
+Project X is currently a conceptual side project, and we're excited to welcome constributors who are passionate about language design and innovation. Whether you're an experienced developer or just starting out, your ideas and insights are valuable!
+
+If you're interested in constributing or discussing the concept, please:
+
+1. Fork the repository
+2. Create a new branch for your ideas
+3. Submit a pull request with your suggestions or improvements
+
+For major changes or new feature ideas, please open an issue first to discuss what you would like to change.
+
+## 📬 Contact
+
+- You can contact me [at my mail](mailto:vemulapallianirudh18@gmail.com)
+- Or you can also reach me through my [website](https://ramachandra-anirudh-vemulapalli.vercel.app/)
+
+## 📜 License
+
+[GPLv3](https://choosealicense.com/licenses/gpl-3.0/)
