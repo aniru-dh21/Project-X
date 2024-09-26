@@ -89,3 +89,5 @@ For major changes or new feature ideas, please open an issue first to discuss wh
 ## 📜 License
 
 [GPLv3](https://choosealicense.com/licenses/gpl-3.0/)
+
+> Note: ProjectX is an exploratory project in its early conceptual stages. Its a fun project which might help you learn more about Compilers and Programming Languages along this fun journey.
